@@ -25,4 +25,7 @@
 ###更新记录
 
 * 2014-03-08: 重新校对，《Go 笔记》发布第二版。
+* 
+
+forked from some chinese guy
 
